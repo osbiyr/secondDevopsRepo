@@ -1,3 +1,5 @@
  yo yo 
- what up ?
+ what up dude?
  is this consider a change or is it just new now ?
+ now this is a change, the previ line not changed
+ three lines before have some change
